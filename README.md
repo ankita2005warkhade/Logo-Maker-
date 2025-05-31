@@ -28,6 +28,8 @@ A simple and intuitive Logo Maker web app that lets you choose icons, customize 
 
 ---
 
+https://drive.google.com/file/d/10FEVU53gEBp12whbZF6Vw7NXTnj6CMvc/view?usp=sharing
+
 ## 📦 Installation & Setup
 
 Follow these steps to set up and run the project locally:
